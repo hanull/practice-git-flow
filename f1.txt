@@ -6,3 +6,5 @@ hotfix-some 5
 hotfix-some 6
 signup done.
 release-2.0
+
+hotfix/1.0
